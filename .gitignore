@@ -1,0 +1,31 @@
+## LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+## Beamer specific
+*.nav
+*.snm
+*.vrb
+
+## Build files
+*.dvi
+*.ps
+
+## Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+*.fdb_latexmk
+*.blg
+*.bbl
